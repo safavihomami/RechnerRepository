@@ -6,8 +6,9 @@ public class Main {
 		
 		MyApp app = new MyApp();
 		System.out.println("Programm Beginn!");
-		
+		System.out.println("neue Zeile");
 
+		
 	}
 
 }
